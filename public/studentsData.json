@@ -1,0 +1,50 @@
+[
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.i-BwyQWeHwwqxnoxFh8cqwHaHW&pid=Api&rs=1&c=1&qlt=95&w=118&h=117",
+    "name": "Ayan",
+    "gender": "Male",
+    "placeDOB": "Lahore, 2000.11.02",
+    "groups": ["Typography", "Web Designers", "App Developers"]
+  },
+
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.s4egWxRrm3Y7KIBSlq2GfwHaJ4&pid=Api&rs=1&c=1&qlt=95&w=87&h=116",
+    "name": "Ayesha",
+    "gender": "Female",
+    "placeDOB": "Karachi, 2001.01.22",
+    "groups": [
+      "Chemistry Capital",
+      "Web Designers",
+      "App Developers",
+      "Software Engineers"
+    ]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.E9yoYG-1wRKMFjfKFSTTfAHaLG&pid=Api&rs=1&c=1&qlt=95&w=78&h=117",
+    "name": "Awais",
+    "gender": "Male",
+    "placeDOB": "Lahore, 2002.04.23",
+    "groups": ["Biologists", "Software Engineers"]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.i-BwyQWeHwwqxnoxFh8cqwHaHW&pid=Api&rs=1&c=1&qlt=95&w=118&h=117",
+    "name": "Ahmad",
+    "gender": "Male",
+    "placeDOB": "Lahore, 2000.11.02",
+    "groups": ["Typography", "Web Designers", "App Developers"]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.s4egWxRrm3Y7KIBSlq2GfwHaJ4&pid=Api&rs=1&c=1&qlt=95&w=87&h=116",
+    "name": "Zainab",
+    "gender": "Female",
+    "placeDOB": "Lahore, 2001.01.22",
+    "groups": ["Chemistry Capital", "Software Engineers"]
+  },
+  {
+    "image": "https://tse1.mm.bing.net/th?id=OIP.i-BwyQWeHwwqxnoxFh8cqwHaHW&pid=Api&rs=1&c=1&qlt=95&w=118&h=117",
+    "name": "Musab",
+    "gender": "Male",
+    "placeDOB": "Lahore, 1999.12.02",
+    "groups": ["Biologists", "Software Engineers"]
+  }
+]
